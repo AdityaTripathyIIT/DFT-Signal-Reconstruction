@@ -4,7 +4,7 @@
 
 Given the Discrete Fourier Transform of a signal like the following, 
 
-![DFT of signal] (assets/DFT.png)
+![DFT of signal](assets/DFT.png)
 
 is it possible to reconstruct the signal, modelled using the following Double Fourier Series,
 ```math
