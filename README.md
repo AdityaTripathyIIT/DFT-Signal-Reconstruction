@@ -12,4 +12,4 @@ is it possible to reconstruct the signal, modelled using the following Double Fo
 ```
 given the sampling rate?
 
-In simpler words, can we comment about $b_{mn}, m$ and $n$, which make up the signal?
+In simpler words, can we comment about $b_{mn}$, $m$ and $n$, which make up the signal?
